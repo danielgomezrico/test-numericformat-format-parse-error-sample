@@ -2,7 +2,7 @@
 
 This project is created to produce https://stackoverflow.com/questions/58140233/currency-numberformat-change-the-format-behaviour-after-calling-parse:
 
-Run `MainActivity.kt`:
+Check [MainActivity](https://github.com/danielgomezrico/test-numericformat-format-parse-error-sample/blob/master/app/src/main/java/com/test/MainActivity.kt):
 
 ```kotlin
 val formatter = NumberFormat.getCurrencyInstance().apply {
